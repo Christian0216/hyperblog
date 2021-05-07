@@ -1,6 +1,6 @@
 body
 {
-    background: palevioletred;
+    background: #1e1f24;
     color: #333;
     text-align: center;
     font-family: 'Arial';
@@ -21,7 +21,8 @@ body
 
 #cabecera #logo
 {
-    width: 20px;
+    width: 70px;
+    vertical-align: middle;
 }
 #cabecera #tagline
 {
